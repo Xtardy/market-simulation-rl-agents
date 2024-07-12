@@ -9,14 +9,14 @@ This project simulates a financial market with reinforcement learning agents mak
 - **Visualization**: Real-time plots of market price, agent balances, and balance distribution.
 
 ## Requirements
-- Python 3.x
+- Python 3.9
 - NumPy
 - Matplotlib
 - PyTorch
 
 ## Installation
 
-1. Install Python 3.x from the [official website](https://www.python.org/).
+1. Install Python 3.9 from the [official website](https://www.python.org/).
 2. Install the required packages using pip:
    ```bash
    pip install numpy matplotlib torch
